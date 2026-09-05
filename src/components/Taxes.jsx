@@ -14,7 +14,7 @@ const defaultTaxes = [
     recipient: 'Lisa Clark',
     ssnMasked: '***-**-4450',
     status: 'Available',
-    issueDate: 'Jan 31, 2026',
+    issueDate: 'Sep 3, 2026',
     description: 'Annual interest earned on Savings & Money Market accounts.'
   },
   {
@@ -30,7 +30,7 @@ const defaultTaxes = [
     recipient: 'Lisa Clark',
     ssnMasked: '***-**-4450',
     status: 'Available',
-    issueDate: 'Jan 31, 2026',
+    issueDate: 'Sep 3, 2026',
     description: 'Mortgage interest and property tax payments reported to the IRS.'
   },
   {

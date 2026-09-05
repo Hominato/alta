@@ -13,7 +13,7 @@ const defaultTax = {
   recipient: 'Lisa Clark',
   ssnMasked: '***-**-4450',
   status: 'Available',
-  issueDate: 'Jan 31, 2026',
+  issueDate: 'Sep 3, 2026',
   description: 'Annual interest earned on Savings & Money Market accounts.',
   boxDetails: [
     { box: 'Box 1', title: 'Interest Income', amount: '$1,250.00' },
